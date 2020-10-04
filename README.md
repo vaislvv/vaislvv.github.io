@@ -118,23 +118,19 @@ disqus_shortname :
 
 ![home](./assets/img/portfolio.png)
 
-프로젝트 세팅은 `_data/projects.yml`에서 가능합니다.
-
 The Project configuration is available in `_data/projects.yml`.
-
-포트폴리오 페이지에서는 프로젝트 목록과 상세보기를 모달로 지원합니다. 물론 상세보기는 선택적이며, 상세값이 `modal : False`인 경우 모달 버튼은 생성되지 않습니다.
 
 The portfolio page provides projects and detailed views by modal.   If `modal : False` is selected, modal will not be displayed on site. 
 
 - **print** : 
   
-  -  `print : True` 를 선택한다면, 블로그의 홈 화면에서도 프로젝트의 정보가 출력됩니다.
+  -  `print : True` 
   - If `print : True` is selected, it will be displayed on landing page
   
    ![print project](./assets/img/print-project.png)
   
 - **modal** 
-  - `modal : True` 를 선택한다면 모달 버튼이 활성와 됩니다.
+  - `modal : True`
   
   - If `modal : True` is selected, modal will be displayed on the Portfolio page
   
