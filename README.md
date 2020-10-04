@@ -185,7 +185,6 @@ You can confirm how to draw tags at [here](https://grape-theme.netlify.com/2019/
    ```
    2019-07-11-grape-theme.md
    ```
-   > 한글로 파일 이름을 만드는 경우, 구글 검색을 붙였을때 문제가 발생합니다. 되로록 영어를 사용해주세요:D
 2. Write the [Front Matter](https://jekyllrb.com/docs/front-matter/) and content in the file.
 
    ```
